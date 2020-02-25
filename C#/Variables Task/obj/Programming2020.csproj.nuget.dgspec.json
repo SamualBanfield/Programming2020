@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\Programming2020.csproj": {}
+    "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\C#\\Variables Task\\Programming2020.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\Programming2020.csproj": {
+    "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\C#\\Variables Task\\Programming2020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\Programming2020.csproj",
+        "projectUniqueName": "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\C#\\Variables Task\\Programming2020.csproj",
         "projectName": "Programming2020",
-        "projectPath": "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\Programming2020.csproj",
+        "projectPath": "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\C#\\Variables Task\\Programming2020.csproj",
         "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\obj\\",
+        "outputPath": "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\C#\\Variables Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"
