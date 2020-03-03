@@ -1,0 +1,11 @@
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb

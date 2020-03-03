@@ -1,0 +1,11 @@
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\obj\Debug\netcoreapp3.1\SelectionTask.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\obj\Debug\netcoreapp3.1\SelectionTask.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\obj\Debug\netcoreapp3.1\SelectionTask.AssemblyInfo.cs
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\bin\Debug\netcoreapp3.1\SelectionTask.exe
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\bin\Debug\netcoreapp3.1\SelectionTask.deps.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\bin\Debug\netcoreapp3.1\SelectionTask.runtimeconfig.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\bin\Debug\netcoreapp3.1\SelectionTask.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\bin\Debug\netcoreapp3.1\SelectionTask.dll
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\bin\Debug\netcoreapp3.1\SelectionTask.pdb
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\obj\Debug\netcoreapp3.1\SelectionTask.dll
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\obj\Debug\netcoreapp3.1\SelectionTask.pdb
