@@ -1,0 +1,3 @@
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Challanges\Largest in Array\obj\Debug\netcoreapp3.1\Largest in Array.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Challanges\Largest in Array\obj\Debug\netcoreapp3.1\Largest in Array.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Challanges\Largest in Array\obj\Debug\netcoreapp3.1\Largest in Array.AssemblyInfo.cs

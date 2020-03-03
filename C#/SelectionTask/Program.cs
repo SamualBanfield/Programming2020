@@ -34,20 +34,10 @@ namespace SelectionTask
     {
       string filepath = @"C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\currentUserInfo.csv";
       List<string> lines = File.ReadAllLines(filepath).ToList();
-      // Putting Each line into arrays based on commas
+      Dictionary<string, string> userpass;
       foreach (string line in lines)
       {
-        foreach (char character in line)
-        {
-          string variablecheck = "";
-          if (character == ',')
-          {
 
-          }
-          variablecheck.Append(character);
-        }
-        Console.WriteLine(" ");
-        string StringCheck = "";
       }
       return false;
     }
