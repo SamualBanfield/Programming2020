@@ -32,12 +32,15 @@ namespace SelectionTask
 
     static bool checking(string userName, string passWord)
     {
-      string filepath = @"C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\currentUserInfo.csv";
+      string filepath = @"C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\SelectionTask\currentUserInfo.txt";
       List<string> lines = File.ReadAllLines(filepath).ToList();
       Dictionary<string, string> userpass;
+      string[] tempstringtest;
       foreach (string line in lines)
       {
-
+        Console.WriteLine(line);
+        tempstringtest = line.Split(' ');
+        Console.WriteLine(tempstringtest);
       }
       return false;
     }

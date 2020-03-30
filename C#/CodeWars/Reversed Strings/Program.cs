@@ -7,10 +7,11 @@ namespace Reversed_Strings
     static void Main(string[] args)
     {
       string str = "dlrow";
-      // for (int i = -1; i >= -str.Length; i--)
-      // {
-      //   Console.WriteLine(i);
-      // }
+      // string reversed;
+      for (int i = str.Length - 1; i <= 0; i--)
+      {
+        Console.Write(str[i]);
+      }
       Console.ReadKey();
     }
   }

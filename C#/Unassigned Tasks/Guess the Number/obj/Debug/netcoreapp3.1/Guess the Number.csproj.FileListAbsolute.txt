@@ -1,0 +1,11 @@
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Unassigned Tasks\Guess the Number\bin\Debug\netcoreapp3.1\Guess the Number.exe
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Unassigned Tasks\Guess the Number\bin\Debug\netcoreapp3.1\Guess the Number.deps.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Unassigned Tasks\Guess the Number\bin\Debug\netcoreapp3.1\Guess the Number.runtimeconfig.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Unassigned Tasks\Guess the Number\bin\Debug\netcoreapp3.1\Guess the Number.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Unassigned Tasks\Guess the Number\bin\Debug\netcoreapp3.1\Guess the Number.dll
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Unassigned Tasks\Guess the Number\bin\Debug\netcoreapp3.1\Guess the Number.pdb
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Unassigned Tasks\Guess the Number\obj\Debug\netcoreapp3.1\Guess the Number.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Unassigned Tasks\Guess the Number\obj\Debug\netcoreapp3.1\Guess the Number.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Unassigned Tasks\Guess the Number\obj\Debug\netcoreapp3.1\Guess the Number.AssemblyInfo.cs
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Unassigned Tasks\Guess the Number\obj\Debug\netcoreapp3.1\Guess the Number.dll
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Unassigned Tasks\Guess the Number\obj\Debug\netcoreapp3.1\Guess the Number.pdb

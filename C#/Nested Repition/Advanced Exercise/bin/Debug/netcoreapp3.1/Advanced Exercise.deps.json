@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Advanced Exercise/1.0.0": {
+        "runtime": {
+          "Advanced Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Advanced Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

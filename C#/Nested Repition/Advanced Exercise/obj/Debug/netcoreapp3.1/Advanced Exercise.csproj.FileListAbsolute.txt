@@ -1,0 +1,11 @@
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Nested Repition\Advanced Exercise\bin\Debug\netcoreapp3.1\Advanced Exercise.exe
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Nested Repition\Advanced Exercise\bin\Debug\netcoreapp3.1\Advanced Exercise.deps.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Nested Repition\Advanced Exercise\bin\Debug\netcoreapp3.1\Advanced Exercise.runtimeconfig.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Nested Repition\Advanced Exercise\bin\Debug\netcoreapp3.1\Advanced Exercise.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Nested Repition\Advanced Exercise\bin\Debug\netcoreapp3.1\Advanced Exercise.dll
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Nested Repition\Advanced Exercise\bin\Debug\netcoreapp3.1\Advanced Exercise.pdb
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Nested Repition\Advanced Exercise\obj\Debug\netcoreapp3.1\Advanced Exercise.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Nested Repition\Advanced Exercise\obj\Debug\netcoreapp3.1\Advanced Exercise.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Nested Repition\Advanced Exercise\obj\Debug\netcoreapp3.1\Advanced Exercise.AssemblyInfo.cs
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Nested Repition\Advanced Exercise\obj\Debug\netcoreapp3.1\Advanced Exercise.dll
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Nested Repition\Advanced Exercise\obj\Debug\netcoreapp3.1\Advanced Exercise.pdb

@@ -1,0 +1,31 @@
+Task 1 // A program receives a user's name and prints it 10 times on the same line. This process happens 10 times.
+START
+  PUT "please enter your name"
+  GET users name
+  MAKE counter for rows = 0
+  MAKE counter for columns = 0
+  WHILE(counter for rows < 10)
+    WHILE(counter for columns < 10)
+      PUT users name
+      counter for columns = counter for columns + 1
+    counter for rows = counter for rows + 1
+END
+
+Task 2 // A program receives a user's name and prints it for the amount of times that the user specifies.
+START
+  PUT "please enter your name"
+  GET users name
+  PUT "please enter the rows"
+  GET rows
+  PUT "please enter the columns"
+  GET columns
+
+  MAKE counter for rows = 0
+  MAKE counter for columns = 0
+
+  WHILE(counter for rows < rows)
+    WHILE(counter for columns < columns)
+      PUT users name
+      counter for columns = counter for columns + 1
+    counter for rows = counter for rows + 1
+END
