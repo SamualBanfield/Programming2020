@@ -1,0 +1,11 @@
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Arrays&Lists\Lists\obj\Debug\netcoreapp3.1\Lists.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Arrays&Lists\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Arrays&Lists\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Arrays&Lists\Lists\bin\Debug\netcoreapp3.1\Lists.exe
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Arrays&Lists\Lists\bin\Debug\netcoreapp3.1\Lists.deps.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Arrays&Lists\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Arrays&Lists\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Arrays&Lists\Lists\bin\Debug\netcoreapp3.1\Lists.dll
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Arrays&Lists\Lists\bin\Debug\netcoreapp3.1\Lists.pdb
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Arrays&Lists\Lists\obj\Debug\netcoreapp3.1\Lists.dll
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Arrays&Lists\Lists\obj\Debug\netcoreapp3.1\Lists.pdb
