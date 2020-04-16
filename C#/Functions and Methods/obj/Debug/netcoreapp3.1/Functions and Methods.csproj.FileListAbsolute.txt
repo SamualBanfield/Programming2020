@@ -1,0 +1,11 @@
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Functions and Methods\bin\Debug\netcoreapp3.1\Functions and Methods.exe
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Functions and Methods\bin\Debug\netcoreapp3.1\Functions and Methods.deps.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Functions and Methods\bin\Debug\netcoreapp3.1\Functions and Methods.runtimeconfig.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Functions and Methods\bin\Debug\netcoreapp3.1\Functions and Methods.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Functions and Methods\bin\Debug\netcoreapp3.1\Functions and Methods.dll
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Functions and Methods\bin\Debug\netcoreapp3.1\Functions and Methods.pdb
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Functions and Methods\obj\Debug\netcoreapp3.1\Functions and Methods.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Functions and Methods\obj\Debug\netcoreapp3.1\Functions and Methods.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Functions and Methods\obj\Debug\netcoreapp3.1\Functions and Methods.AssemblyInfo.cs
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Functions and Methods\obj\Debug\netcoreapp3.1\Functions and Methods.dll
+C:\Users\Sam\Desktop\Vis Code\School\Programming2020\C#\Functions and Methods\obj\Debug\netcoreapp3.1\Functions and Methods.pdb
