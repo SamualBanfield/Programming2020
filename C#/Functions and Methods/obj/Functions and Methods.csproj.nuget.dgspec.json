@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\C#\\Functions and Methods\\Functions and Methods.csproj": {}
+    "C:\\Users\\Sam\\Desktop\\VisCode\\Programming\\GitCode\\Programming2020\\C#\\Functions and Methods\\Functions and Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\C#\\Functions and Methods\\Functions and Methods.csproj": {
+    "C:\\Users\\Sam\\Desktop\\VisCode\\Programming\\GitCode\\Programming2020\\C#\\Functions and Methods\\Functions and Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\C#\\Functions and Methods\\Functions and Methods.csproj",
+        "projectUniqueName": "C:\\Users\\Sam\\Desktop\\VisCode\\Programming\\GitCode\\Programming2020\\C#\\Functions and Methods\\Functions and Methods.csproj",
         "projectName": "Functions and Methods",
-        "projectPath": "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\C#\\Functions and Methods\\Functions and Methods.csproj",
+        "projectPath": "C:\\Users\\Sam\\Desktop\\VisCode\\Programming\\GitCode\\Programming2020\\C#\\Functions and Methods\\Functions and Methods.csproj",
         "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam\\Desktop\\Vis Code\\School\\Programming2020\\C#\\Functions and Methods\\obj\\",
+        "outputPath": "C:\\Users\\Sam\\Desktop\\VisCode\\Programming\\GitCode\\Programming2020\\C#\\Functions and Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
