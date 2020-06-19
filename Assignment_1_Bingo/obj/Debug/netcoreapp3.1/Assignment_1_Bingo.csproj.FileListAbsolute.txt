@@ -1,0 +1,13 @@
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\Assignment_1_Bingo\bin\Debug\netcoreapp3.1\Assignment_1_Bingo.exe
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\Assignment_1_Bingo\bin\Debug\netcoreapp3.1\Assignment_1_Bingo.deps.json
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\Assignment_1_Bingo\bin\Debug\netcoreapp3.1\Assignment_1_Bingo.runtimeconfig.json
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\Assignment_1_Bingo\bin\Debug\netcoreapp3.1\Assignment_1_Bingo.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\Assignment_1_Bingo\bin\Debug\netcoreapp3.1\Assignment_1_Bingo.dll
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\Assignment_1_Bingo\bin\Debug\netcoreapp3.1\Assignment_1_Bingo.pdb
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\Assignment_1_Bingo\obj\Debug\netcoreapp3.1\Assignment_1_Bingo.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\Assignment_1_Bingo\obj\Debug\netcoreapp3.1\Assignment_1_Bingo.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\Assignment_1_Bingo\obj\Debug\netcoreapp3.1\Assignment_1_Bingo.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\Assignment_1_Bingo\obj\Debug\netcoreapp3.1\Assignment_1_Bingo.AssemblyInfo.cs
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\Assignment_1_Bingo\obj\Debug\netcoreapp3.1\Assignment_1_Bingo.dll
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\Assignment_1_Bingo\obj\Debug\netcoreapp3.1\Assignment_1_Bingo.pdb
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\Assignment_1_Bingo\obj\Debug\netcoreapp3.1\Assignment_1_Bingo.genruntimeconfig.cache
