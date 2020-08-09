@@ -1,0 +1,13 @@
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\C#\Bee Keeping\obj\Debug\netcoreapp3.1\Bee Keeping.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\C#\Bee Keeping\obj\Debug\netcoreapp3.1\Bee Keeping.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\C#\Bee Keeping\obj\Debug\netcoreapp3.1\Bee Keeping.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\C#\Bee Keeping\obj\Debug\netcoreapp3.1\Bee Keeping.AssemblyInfo.cs
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\C#\Bee Keeping\bin\Debug\netcoreapp3.1\Bee Keeping.exe
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\C#\Bee Keeping\bin\Debug\netcoreapp3.1\Bee Keeping.deps.json
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\C#\Bee Keeping\bin\Debug\netcoreapp3.1\Bee Keeping.runtimeconfig.json
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\C#\Bee Keeping\bin\Debug\netcoreapp3.1\Bee Keeping.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\C#\Bee Keeping\bin\Debug\netcoreapp3.1\Bee Keeping.dll
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\C#\Bee Keeping\bin\Debug\netcoreapp3.1\Bee Keeping.pdb
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\C#\Bee Keeping\obj\Debug\netcoreapp3.1\Bee Keeping.dll
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\C#\Bee Keeping\obj\Debug\netcoreapp3.1\Bee Keeping.pdb
+C:\Users\Sam\Desktop\VisCode\Programming\GitCode\Programming2020\C#\Bee Keeping\obj\Debug\netcoreapp3.1\Bee Keeping.genruntimeconfig.cache
