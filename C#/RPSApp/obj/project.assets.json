@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sam\\Desktop\\VisCode\\Programming\\GitCode\\Programming2020\\C#\\MaskApp\\MaskAPI\\MaskAPI.csproj",
-      "projectName": "MaskAPI",
-      "projectPath": "C:\\Users\\Sam\\Desktop\\VisCode\\Programming\\GitCode\\Programming2020\\C#\\MaskApp\\MaskAPI\\MaskAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Sam\\Desktop\\VisCode\\Programming\\GitCode\\Programming2020\\C#\\RPSApp\\RPSApp.csproj",
+      "projectName": "RPSApp",
+      "projectPath": "C:\\Users\\Sam\\Desktop\\VisCode\\Programming\\GitCode\\Programming2020\\C#\\RPSApp\\RPSApp.csproj",
       "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sam\\Desktop\\VisCode\\Programming\\GitCode\\Programming2020\\C#\\MaskApp\\MaskAPI\\obj\\",
+      "outputPath": "C:\\Users\\Sam\\Desktop\\VisCode\\Programming\\GitCode\\Programming2020\\C#\\RPSApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"
